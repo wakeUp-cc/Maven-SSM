@@ -1,0 +1,2 @@
+# maven_ssm
+Spring SpringMvc Mybatis整合后通过maven按三层将项目拆分后的小demo
